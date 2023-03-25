@@ -1,0 +1,12 @@
+{
+  "session_id": "1234567890",
+  "market_id": "412a-1234-1234-1234-1234567890",
+  "market_name": "Market Name",
+  "order_id": "412a-1234-1234-1234-1234567890",
+  "loan_amount": 1200000,
+  "loan_term": 30,
+  "loan_fee_rate": 0.05,
+  "loan_fee_amount": 60000,
+  "loan_date": "2018-01-01",
+  "loan_due_date": "2018-02-01"
+}
